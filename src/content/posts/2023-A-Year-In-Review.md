@@ -3,7 +3,7 @@ pubDate: 2024-12-30
 title: 2023 A Year in Review
 description: "To those we had memories together: thanks for being part of my 2023. Grateful for those who are still in my life. Wishing next year to be a good year."
 image:
-  url: "/src/images/blog/1/1.png"
+  url: "/src/images/blog/1.png"
   alt: "#"
 tags: ["Life"]
 ---
@@ -34,7 +34,7 @@ Today marks one year since I moved to Bangkok. It seems that I’m still deeply 
 
 This year, I traveled much less compared to the previous year. Koh mark trips (5 days 4 nights) was slow and immersive, but I very very love it. A trip focused on real relaxation.
 
-![Cape Tukata, Koh Mak](/src/images/blog/1/img_3185-2.webp)
+![Cape Tukata, Koh Mak](https://0qzcx4dte3pfl7of.public.blob.vercel-storage.com/img_3185-2.webp)
 
 I nap every day on that island and watch the sunset every evening. Feels great not dealing with too many tourists. It gave time for deep conversations with my travel partner.
 
@@ -48,7 +48,7 @@ Here’s hoping that next year I continue to find joy in learning and developing
 
 This year, I only finished reading two books, but my favorite one is ‘Mesa La Tawan.’ This book that reminds me of a dear friend who has passed away. I cried a lot after finishing it.
 
-![Mesa La Tawan by September's blue](/src/images/blog/1/img_7776.webp)
+![Mesa La Tawan by September's blue](https://0qzcx4dte3pfl7of.public.blob.vercel-storage.com/img_7776.webp)
 
 I reflect and think about the importance of people who are still in my life after read this one. Hoping that next year, I’ll have more time to read books.
 
